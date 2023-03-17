@@ -1,0 +1,15 @@
+total 52
+-rw-r--r-- 1 root root  93 Mar 17 16:33 0-positive_or_negative.c
+-rw-r--r-- 1 root root 390 Mar 17 16:38 100-print_comb3.c
+-rw-r--r-- 1 root root 468 Mar 17 16:38 101-print_comb4.c
+-rw-r--r-- 1 root root 488 Mar 17 16:39 102-print_comb5.c
+-rw-r--r-- 1 root root 598 Mar 17 16:34 1-last_digit.c
+-rw-r--r-- 1 root root 246 Mar 17 16:34 2-print_alphabet.c
+-rw-r--r-- 1 root root 271 Mar 17 16:35 3-print_alphabets.c
+-rw-r--r-- 1 root root 290 Mar 17 16:35 4-print_alphabt.c
+-rw-r--r-- 1 root root 207 Mar 17 16:36 5-print_numbers.c
+-rw-r--r-- 1 root root 203 Mar 17 16:36 6-print_numberz.c
+-rw-r--r-- 1 root root 249 Mar 17 16:36 7-print_tebahpla.c
+-rw-r--r-- 1 root root 281 Mar 17 16:37 8-print_base16.c
+-rw-r--r-- 1 root root 286 Mar 17 16:37 9-print_comb.c
+-rw-r--r-- 1 root root   0 Mar 17 16:41 README.md
