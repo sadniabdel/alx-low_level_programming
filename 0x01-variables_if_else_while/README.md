@@ -12,4 +12,4 @@ total 52
 -rw-r--r-- 1 root root 249 Mar 17 16:36 7-print_tebahpla.c
 -rw-r--r-- 1 root root 281 Mar 17 16:37 8-print_base16.c
 -rw-r--r-- 1 root root 286 Mar 17 16:37 9-print_comb.c
--rw-r--r-- 1 root root   0 Mar 17 16:41 README.md
+-rw-r--r-- 1 root root   0 Mar 17 16:41 betty ..  README.md
