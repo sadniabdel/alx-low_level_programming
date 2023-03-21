@@ -1,0 +1,21 @@
+total 76
+-rw-r--r-- 1 root root 254 Mar 21 15:38 0-putchar.c
+-rw-r--r-- 1 root root 841 Mar 21 15:47 100-times_table.c
+-rw-r--r-- 1 root root 363 Mar 21 15:47 101-natural.c
+-rw-r--r-- 1 root root 436 Mar 21 15:48 102-fibonacci.c
+-rw-r--r-- 1 root root 404 Mar 21 15:48 103-fibonacci.c
+-rw-r--r-- 1 root root 741 Mar 21 15:49 104-fibonacci.c
+-rw-r--r-- 1 root root 220 Mar 21 15:46 10-add.c
+-rw-r--r-- 1 root root 482 Mar 21 15:46 11-print_to_98.c
+-rw-r--r-- 1 root root 208 Mar 21 15:38 1-alphabet.c
+-rw-r--r-- 1 root root 296 Mar 21 15:38 2-print_alphabet_x10.c
+-rw-r--r-- 1 root root 236 Mar 21 15:39 3-islower.c
+-rw-r--r-- 1 root root 235 Mar 21 15:39 4-isalpha.c
+-rw-r--r-- 1 root root 402 Mar 21 15:42 5-sign.c
+-rw-r--r-- 1 root root 207 Mar 21 15:42 6-abs.c
+-rw-r--r-- 1 root root 298 Mar 21 15:43 7-print_last_digit.c
+-rw-r--r-- 1 root root 391 Mar 21 15:45 8-24_hours.c
+-rw-r--r-- 1 root root 517 Mar 21 15:46 9-times_table.c
+-rw-r--r-- 1 root root 346 Mar 21 15:37 main.h
+-rw-r--r-- 1 root root 264 Mar 21 15:37 _putchar.c
+-rw-r--r-- 1 root root   0 Mar 21 15:55 README.md
