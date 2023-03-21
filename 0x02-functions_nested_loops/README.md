@@ -1,4 +1,4 @@
-total 76
+
 -rw-r--r-- 1 root root 254 Mar 21 15:38 0-putchar.c
 -rw-r--r-- 1 root root 841 Mar 21 15:47 100-times_table.c
 -rw-r--r-- 1 root root 363 Mar 21 15:47 101-natural.c
