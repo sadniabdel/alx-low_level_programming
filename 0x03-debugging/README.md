@@ -1,8 +1,24 @@
-total 24
--rw-r--r-- 1 root root 155 Mar 23 15:40 0-main.c
--rw-r--r-- 1 root root 243 Mar 23 15:51 1-main.c
--rw-r--r-- 1 root root 372 Mar 23 15:52 2-largest_number.c
--rw-r--r-- 1 root root 694 Mar 23 15:53 3-print_remaining_days.c
--rw-r--r-- 1 root root 215 Mar 23 15:43 main.c
--rw-r--r-- 1 root root 225 Mar 23 15:39 main.h
--rw-r--r-- 1 root root   0 Mar 23 15:56 README.md
+#0x03. C - Debugging
+
+
+#TASKS.
+
+0. Multiple mains
+mandatory
+In most projects, we often give you only one main file to test with. For example, this main file is a test for a postitive_or_negative() function similar to the one you worked with in an earlier C project:
+
+1. Like, comment, subscribe
+mandatory
+Copy this main file. Comment out (don’t delete it!) the part of the code that is causing the output to go into an infinite loop.
+
+Don’t add or remove any lines of code, as we will be checking your line count. You are only allowed to comment out existing code.
+You do not have to compile with -Wall -Werror -Wextra -pedantic for this task.
+
+2. 0 > 972?
+mandatory
+This program prints the largest of three integers.
+
+3. Leap year
+mandatory
+This program converts a date to the day of year and determines how many days are left in the year, taking leap year into consideration.
+
