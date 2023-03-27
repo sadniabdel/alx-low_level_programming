@@ -1,0 +1,15 @@
+total 52
+-rw-r--r-- 1 root root 207 Mar 27 16:10 0-reset_to_98.c
+-rw-r--r-- 1 root root 594 Mar 27 16:15 100-atoi.c
+-rw-r--r-- 1 root root 517 Mar 27 16:15 101-keygen.c
+-rw-r--r-- 1 root root 190 Mar 27 16:10 1-swap.c
+-rw-r--r-- 1 root root 206 Mar 27 16:11 2-strlen.c
+-rw-r--r-- 1 root root 205 Mar 27 16:11 3-puts.c
+-rw-r--r-- 1 root root 266 Mar 27 16:12 4-print_rev.c
+-rw-r--r-- 1 root root 330 Mar 27 16:12 5-rev_string.c
+-rw-r--r-- 1 root root 386 Mar 27 16:13 6-puts2.c
+-rw-r--r-- 1 root root 418 Mar 27 16:13 7-puts_half.c
+-rw-r--r-- 1 root root 372 Mar 27 16:14 8-print_array.c
+-rw-r--r-- 1 root root 341 Mar 27 16:14 9-strcpy.c
+-rw-r--r-- 1 root root 375 Mar 27 16:16 MAIN.H
+-rw-r--r-- 1 root root   0 Mar 27 16:16 README.md
