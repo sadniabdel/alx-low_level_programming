@@ -1,0 +1,24 @@
+total 72
+-rw-r--r-- 1 root root  336 Mar 29 14:37 0-strcat.c
+drwxr-xr-x 2 root root  194 Mar 16 14:33 0x00-hello_world
+drwxr-xr-x 2 root root 4096 Mar 17 16:55 0x01-variables_if_else_while
+drwxr-xr-x 2 root root 4096 Mar 21 16:11 0x02-functions_nested_loops
+drwxr-xr-x 2 root root  189 Mar 24 16:46 0x03-debugging
+drwxr-xr-x 2 root root 4096 Mar 24 17:38 0x04-more_functions_nested_loops
+drwxr-xr-x 2 root root  330 Mar 27 17:03 0x05-pointers_arrays_strings
+drwxr-xr-x 2 root root    6 Mar 29 14:35 0x06-pointers_arrays_strings
+-rw-r--r-- 1 root root  464 Mar 29 14:41 100-rot13.c
+-rw-r--r-- 1 root root  284 Mar 29 14:41 101-print_number.c
+-rw-r--r-- 1 root root  430 Mar 29 14:42 102-magic.c
+-rw-r--r-- 1 root root 1285 Mar 29 14:42 103-infinite_add.c
+-rw-r--r-- 1 root root  627 Mar 29 14:43 104-print_buffer.c
+-rw-r--r-- 1 root root  402 Mar 29 14:38 1-strncat.c
+-rw-r--r-- 1 root root  330 Mar 29 14:38 2-strncpy.c
+-rw-r--r-- 1 root root  305 Mar 29 14:39 3-strcmp.c
+-rw-r--r-- 1 root root  265 Mar 29 14:39 4-rev_array.c
+-rw-r--r-- 1 root root  265 Mar 29 14:39 5-string_toupper.c
+-rw-r--r-- 1 root root  776 Mar 29 14:40 6-cap_string.c
+-rw-r--r-- 1 root root  322 Mar 29 14:40 7-leet.c
+-rw-r--r-- 1 root root  485 Mar 29 14:36 main.h
+-rw-r--r-- 1 root root 1778 Mar 29 14:37 _putchar.c
+-rw-r--r-- 1 root root    0 Mar 29 14:43 README.md
