@@ -3,26 +3,47 @@
 #include <stdarg.h>
 
 /**
- * print_numbers  Prints numbers, followed by a new line.
- * @separator: The string to be printed between numbers.
- * @n: The number of integers passed to the function.
- * @...: A variable number of numbers to be printed.
+ * print_number - Function that prints an integer.
+ * @n: int type number
+ * Description: Can only use _putchar to print.
  */
-
-void print_numbers(const char *separator, const unsigned int n, ...)
+void print_number(int n)
 {
-    va_list args;
-    unsigned int i;
+	long m; /* power of 10 */
+	int c; /* boolean check */
+	long num; /* convert int to long */
 
-    va_start(args, n);
+	num = n;
+	/* negatives */
+	if (num < 0)
+	{
+		num *= -1;
+		_putchar('-');
+	}
 
-    for (i = 0; i < n; i++) {
-        printf("%d", va_arg(args, int));
-        if (separator != NULL && i != n - 1) {
-            printf("%s", separator);
-        }
-    }
+	/* count up */
+	m = 1;
+	c = 1;
+	while (c)
+	{
+		if (num / (m * 10) > 0)
+			m *= 10;
+		else
+			c = 0;
+	}
 
-    printf("\n");
-    va_end(args);
+	/* count down */
+	while (num >= 0)
+	{
+		if (m == 1)
+		{
+			_putchar(num % 10 + '0');
+			num = -1;
+		}
+		else
+		{
+			_putchar((num / m % 10) + '0');
+			m /= 10;
+		}
+	}
 }
